@@ -4,20 +4,20 @@
 <div align="center">
 
 <!-- Header banner — animated tech GIF -->
-<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/header-tech.gif?v=2" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
+<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/header-tech.gif?v=3" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
 
 <!-- Profile avatar (circular PNG — GitHub ignores border-radius CSS) -->
 <img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/avatar.png" width="188" style="margin-top:-40px;" alt="Dayane Fernandes"/>
 
 <br/><br/>
 
-**Desenvolvedora Backend** especializada em **infraestrutura, automação e cloud**  
-Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes escaláveis — com segurança integrada desde o design.
+**Backend Developer** focused on **infrastructure, automation, and cloud**  
+I design and build robust APIs, automated delivery pipelines, and scalable environments — with security built in from day one.
 
 <br/>
 
 <!-- Animated role tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=APIs+escal%C3%A1veis+e+seguras;Pipelines+CI%2FCD+automatizados;Infraestrutura+Cloud+com+DevSecOps" alt="Backend · DevOps · Cloud"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Scalable+and+secure+APIs;Automated+CI%2FCD+pipelines;Cloud+infrastructure+with+DevSecOps" alt="Backend · DevOps · Cloud"/>
 
 <br/>
 
@@ -32,12 +32,12 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 
 <div align="center">
 
-### ✨ Onde atuo
+### ✨ Where I focus
 
-| 🔧 Backend | ⚙️ DevOps | ☁️ Cloud & Segurança |
+| 🔧 Backend | ⚙️ DevOps | ☁️ Cloud & Security |
 | :---: | :---: | :---: |
-| APIs REST · Go · Python · Node.js | Docker · Kubernetes · CI/CD | AWS · Azure · RBAC · Auditoria |
-| Microsserviços · SQL · NoSQL | Terraform · Linux · Observabilidade | DevSecOps · Hardening · IaC |
+| REST APIs · Go · Python · Node.js | Docker · Kubernetes · CI/CD | AWS · Azure · RBAC · Auditing |
+| Microservices · SQL · NoSQL | Terraform · Linux · Observability | DevSecOps · Hardening · IaC |
 
 </div>
 
@@ -45,15 +45,15 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 
 <div align="center">
 
-### 💼 O que eu faço
+### 💼 What I do
 
 | |
 | :---: |
-| ▸ Desenvolvo APIs RESTful e serviços backend em Go, Python e Node.js |
-| ▸ Containerizo aplicações e orquestro deploys com Docker e Kubernetes |
-| ▸ Automatizo pipelines CI/CD e infraestrutura como código |
-| ▸ Implemento práticas de DevSecOps: autenticação, RBAC, auditoria e hardening |
-| ▸ Opero e monitoro workloads em AWS, Azure e ambientes Linux |
+| ▸ Build RESTful APIs and backend services in Go, Python, and Node.js |
+| ▸ Containerize applications and orchestrate deploys with Docker and Kubernetes |
+| ▸ Automate CI/CD pipelines and infrastructure as code |
+| ▸ Apply DevSecOps practices: authentication, RBAC, auditing, and hardening |
+| ▸ Operate and monitor workloads on AWS, Azure, and Linux environments |
 
 </div>
 
@@ -61,7 +61,7 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 
 <div align="center">
 
-### 🛠️ Stack técnica
+### 🛠️ Tech stack
 
 <!-- Backend & APIs -->
 #### Backend & APIs
@@ -76,7 +76,7 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 <br/>
 
 <!-- DevOps, infra & observability -->
-#### DevOps, Infra & Observabilidade
+#### DevOps, Infra & Observability
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" alt="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="44" alt="Kubernetes"/>
@@ -92,7 +92,7 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 <br/>
 
 <!-- Cloud platforms & data stores -->
-#### Cloud & Dados
+#### Cloud & Data
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" alt="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" alt="Azure"/>
@@ -104,11 +104,11 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 <br/>
 
 <!-- Skills in progress -->
-#### Em evolução
+#### Currently learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="44" alt="Helm"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="44" alt="ArgoCD"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="44" alt="IA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="44" alt="AI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" alt="ML"/>
 
 </div>
@@ -117,15 +117,15 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 
 <div align="center">
 
-### 🚀 Projeto em destaque
+### 🚀 Featured project
 
-**[Auth Service](https://github.com/DayaneF6/auth_service)** — API de autenticação production-ready em Go, desenvolvida como case de portfólio.
+**[Auth Service](https://github.com/DayaneF6/auth_service)** — Production-ready authentication API in Go, built as a portfolio showcase.
 
-| Funcionalidades | Infra & Ops |
+| Features | Infra & Ops |
 | :---: | :---: |
-| Registro, login e JWT com refresh HttpOnly | Docker Compose multi-serviço |
-| RBAC, rate limit e auditoria de ações | PostgreSQL + Redis |
-| Reset de senha e verificação de e-mail | Métricas Prometheus · OpenAPI |
+| Sign-up, login, and JWT with HttpOnly refresh | Multi-service Docker Compose |
+| RBAC, rate limiting, and action auditing | PostgreSQL + Redis |
+| Password reset and email verification | Prometheus metrics · OpenAPI |
 
 ![Go](https://img.shields.io/badge/Go-9B72CF?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-BB86FC?style=for-the-badge&logo=docker&logoColor=white)
@@ -138,9 +138,9 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 
 <div align="center">
 
-### 🤝 Vamos conversar?
+### 🤝 Let's connect
 
-Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na área de tecnologia**.
+I'm open to **opportunities**, **backend/cloud projects**, and **connections in tech**.
 
 <br/>
 
@@ -153,6 +153,6 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 <br/><br/>
 
 <!-- Footer — animated tech GIF -->
-<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer-tech.gif?v=2" width="100%" alt="Do código à nuvem — com segurança e escala."/>
+<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer-tech.gif?v=3" width="100%" alt="From code to cloud — secure and scalable."/>
 
 </div>
