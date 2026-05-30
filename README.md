@@ -14,6 +14,31 @@
 **Desenvolvedora Backend** especializada em **infraestrutura, automação e cloud**  
 Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes escaláveis — com segurança integrada desde o design.
 
+<br/>
+
+<!-- Animated role tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=APIs+escal%C3%A1veis+e+seguras;Pipelines+CI%2FCD+automatizados;Infraestrutura+Cloud+com+DevSecOps" alt="Backend · DevOps · Cloud"/>
+
+<br/>
+
+![Open to work](https://img.shields.io/badge/Open_to_work-FFB6C1?style=for-the-badge&logoColor=4A1942)
+![Backend](https://img.shields.io/badge/Backend-9B72CF?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-BB86FC?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-7C3AED?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Onde atuo
+
+| 🔧 Backend | ⚙️ DevOps | ☁️ Cloud & Segurança |
+| :---: | :---: | :---: |
+| APIs REST · Go · Python · Node.js | Docker · Kubernetes · CI/CD | AWS · Azure · RBAC · Auditoria |
+| Microsserviços · SQL · NoSQL | Terraform · Linux · Observabilidade | DevSecOps · Hardening · IaC |
+
 </div>
 
 ---
@@ -102,6 +127,11 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 | RBAC, rate limit e auditoria de ações | PostgreSQL + Redis |
 | Reset de senha e verificação de e-mail | Métricas Prometheus · OpenAPI |
 
+![Go](https://img.shields.io/badge/Go-9B72CF?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-BB86FC?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=4A1942)
+![JWT](https://img.shields.io/badge/JWT_%2B_RBAC-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 </div>
 
 ---
@@ -118,10 +148,11 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayane-fernandes-a97225337/)
 [![Email](https://img.shields.io/badge/Email-BB86FC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayanef652@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DayaneF6)
+[![Auth Service](https://img.shields.io/badge/Auth_Service-FFB6C1?style=for-the-badge&logo=go&logoColor=4A1942)](https://github.com/DayaneF6/auth_service)
 
 <br/><br/>
 
-<!-- Footer — SVG for same lilac/pink as header (capsule footer renders gray) -->
-<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer.svg" width="100%" alt="Do código à nuvem — com segurança e escala."/>
+<!-- Footer tagline -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=BB86FC,FFB6C1&height=90&section=footer&text=Do%20c%C3%B3digo%20%C3%A0%20nuvem%20%E2%80%94%20com%20seguran%C3%A7a%20e%20escala.&fontSize=15&fontColor=ffffff&animation=twinkling"/>
 
 </div>
