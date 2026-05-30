@@ -3,23 +3,16 @@
 
 <div align="center">
 
-<!-- Header banner (self-hosted SVG — stable colors, no external API) -->
-<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/header.svg" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
+<!-- Header banner with role focus -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=9B72CF,FFB6C1&height=170&section=header&text=Dayane%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20DevOps%20%C2%B7%20DevSecOps%20%C2%B7%20Cloud&descSize=18&descAlignY=58&descAlign=50"/>
 
 <!-- Profile avatar (public GitHub image) -->
-<img src="https://github.com/DayaneF6.png" width="180" style="border-radius:50%;border:3px solid #BB86FC;box-shadow:0 4px 24px rgba(187,134,252,0.4);margin-top:-30px;" alt="Dayane Fernandes"/>
+<img src="https://github.com/DayaneF6.png" width="180" style="border-radius:50%;border:3px solid #BB86FC;box-shadow:0 4px 24px rgba(187,134,252,0.4);margin-top:-40px;" alt="Dayane Fernandes"/>
 
 <br/><br/>
 
 **Desenvolvedora Backend** especializada em **infraestrutura, automação e cloud**  
 Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes escaláveis — com segurança integrada desde o design.
-
-<br/>
-
-![Backend](https://img.shields.io/badge/Backend-9B72CF?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-BB86FC?style=flat-square)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-7C3AED?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud-FFB6C1?style=flat-square&logoColor=4A1942)
 
 </div>
 
@@ -95,15 +88,7 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 
 ### 🚀 Projeto em destaque
 
-<div align="center">
-
-<!-- Static project link — avoids GitHub API rate limits -->
-[![Auth Service](https://img.shields.io/badge/Auth_Service-9B72CF?style=for-the-badge&logo=go&logoColor=white)](https://github.com/DayaneF6/auth_service)
-[![Ver repositório](https://img.shields.io/badge/Ver_repositório-FFB6C1?style=for-the-badge&logo=github&logoColor=4A1942)](https://github.com/DayaneF6/auth_service)
-
-</div>
-
-**Auth Service** — API de autenticação production-ready em Go, desenvolvida como case de portfólio.
+**[Auth Service](https://github.com/DayaneF6/auth_service)** — API de autenticação production-ready em Go, desenvolvida como case de portfólio.
 
 | Funcionalidades | Infra & Ops |
 |-----------------|-------------|
@@ -111,27 +96,13 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 | RBAC, rate limit e auditoria de ações | PostgreSQL + Redis |
 | Reset de senha e verificação de e-mail | Métricas Prometheus · OpenAPI |
 
-![Go](https://img.shields.io/badge/Go-9B72CF?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-BB86FC?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FFB6C1?style=for-the-badge&logo=redis&logoColor=4A1942)
-![Docker](https://img.shields.io/badge/Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_%2B_RBAC-C084FC?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
 ---
 
 <div align="center">
 
 ### 📊 Atividade no GitHub
 
-<!-- Streak widget only — reliable, no GitHub API rate limit errors -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DayaneF6&background=1a1025&ring=BB86FC&fire=FFB6C1&currStreakNum=FFB6C1&currStreakLabel=E8B4E8&sideNums=DDA0DD&sideLabels=BB86FC&dates=9889A8" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<!-- Static language badges — replaces dynamic top-langs widget -->
-![Go](https://img.shields.io/badge/Go-9B72CF?style=flat-square&logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-BB86FC?style=flat-square&logo=html5&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-FFB6C1?style=flat-square&logo=ruby&logoColor=4A1942)
 
 </div>
 
@@ -153,6 +124,6 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 <br/><br/>
 
 <!-- Footer tagline -->
-<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer.svg" width="100%" alt="Do código à nuvem — com segurança e escala."/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=9B72CF,FFB6C1&height=90&section=footer&text=Do%20c%C3%B3digo%20%C3%A0%20nuvem%20%E2%80%94%20com%20seguran%C3%A7a%20e%20escala.&fontSize=15&fontColor=ffffff&animation=twinkling"/>
 
 </div>
