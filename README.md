@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<!-- Header banner — repo SVG for stable lilac/pink colors -->
-<img src="./assets/header.svg" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
+<!-- Header banner — PNG for stable layout and lilac/pink colors on GitHub -->
+<img src="./assets/header.png" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
 
 <!-- Profile avatar (public GitHub image) -->
 <img src="https://github.com/DayaneF6.png" width="180" style="border-radius:50%;border:3px solid #BB86FC;box-shadow:0 4px 24px rgba(187,134,252,0.4);margin-top:-40px;" alt="Dayane Fernandes"/>
@@ -152,7 +152,7 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 
 <br/><br/>
 
-<!-- Footer tagline — repo SVG for stable lilac/pink colors -->
-<img src="./assets/footer.svg" width="100%" alt="Do código à nuvem — com segurança e escala."/>
+<!-- Footer tagline — PNG for stable layout and lilac/pink colors on GitHub -->
+<img src="./assets/footer.png" width="100%" alt="Do código à nuvem — com segurança e escala."/>
 
 </div>
