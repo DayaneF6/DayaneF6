@@ -91,7 +91,7 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 <div align="center">
 
 <!-- Portfolio repo card (public repository only) -->
-[![Auth Service](https://github-readme-stats.vercel.app/api/pin/?username=DayaneF6&repo=auth_service&bg_color=1a1025&title_color=FFB6C1&text_color=E8B4E8&icon_color=BB86FC&border_color=9B72CF)](https://github.com/DayaneF6/auth_service)
+[![Auth Service](https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=DayaneF6&repo=auth_service&bg_color=1a1025&title_color=FFB6C1&text_color=E8B4E8&icon_color=BB86FC&border_color=9B72CF)](https://github.com/DayaneF6/auth_service)
 
 </div>
 
@@ -110,8 +110,8 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 ### 📊 Atividade no GitHub
 
 <!-- Public stats widgets — no private repo data exposed -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DayaneF6&show_icons=true&bg_color=1a1025&title_color=FFB6C1&text_color=E8B4E8&icon_color=BB86FC&border_color=9B72CF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaneF6&layout=compact&bg_color=1a1025&title_color=FFB6C1&text_color=E8B4E8&icon_color=BB86FC&border_color=9B72CF"/>
+<img height="165em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=DayaneF6&show_icons=true&bg_color=1a1025&title_color=FFB6C1&text_color=E8B4E8&icon_color=BB86FC&border_color=9B72CF"/>
+<img height="165em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=DayaneF6&layout=compact&bg_color=1a1025&title_color=FFB6C1&text_color=E8B4E8&icon_color=BB86FC&border_color=9B72CF"/>
 
 <br/>
 
