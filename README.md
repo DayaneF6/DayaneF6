@@ -121,7 +121,7 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 
 <br/><br/>
 
-<!-- Footer tagline -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=BB86FC,FFB6C1&height=90&section=footer&text=Do%20c%C3%B3digo%20%C3%A0%20nuvem%20%E2%80%94%20com%20seguran%C3%A7a%20e%20escala.&fontSize=15&fontColor=ffffff&animation=twinkling"/>
+<!-- Footer — SVG for same lilac/pink as header (capsule footer renders gray) -->
+<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer.svg" width="100%" alt="Do código à nuvem — com segurança e escala."/>
 
 </div>

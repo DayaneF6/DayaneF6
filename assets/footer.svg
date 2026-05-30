@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="90" viewBox="0 0 850 90">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#BB86FC"/>
+      <stop offset="100%" stop-color="#FFB6C1"/>
+    </linearGradient>
+  </defs>
+  <rect width="850" height="90" fill="url(#grad)"/>
+  <path d="M0,0 C200,40 350,0 550,35 C680,55 760,20 850,45 L850,0 Z" fill="#FFFFFF" fill-opacity="0.12"/>
+  <path d="M0,90 C180,55 320,95 520,60 C650,38 740,80 850,50 L850,90 L0,90 Z" fill="#BB86FC" fill-opacity="0.2"/>
+  <text x="425" y="52" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Do código à nuvem  com segurança e escala.</text>
+</svg>
