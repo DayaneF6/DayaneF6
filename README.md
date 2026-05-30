@@ -100,16 +100,6 @@ Projeto e implemento APIs robustas, pipelines de entrega contínua e ambientes e
 
 <div align="center">
 
-### 📊 Atividade no GitHub
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DayaneF6&background=1a1025&ring=BB86FC&fire=FFB6C1&currStreakNum=FFB6C1&currStreakLabel=E8B4E8&sideNums=DDA0DD&sideLabels=BB86FC&dates=9889A8" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🤝 Vamos conversar?
 
 Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na área de tecnologia**.
@@ -124,6 +114,6 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 <br/><br/>
 
 <!-- Footer tagline -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=9B72CF,FFB6C1&height=90&section=footer&text=Do%20c%C3%B3digo%20%C3%A0%20nuvem%20%E2%80%94%20com%20seguran%C3%A7a%20e%20escala.&fontSize=15&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=6D28D9,BB86FC&height=90&section=footer&text=Do%20c%C3%B3digo%20%C3%A0%20nuvem%20%E2%80%94%20com%20seguran%C3%A7a%20e%20escala.&fontSize=15&fontColor=ffffff&animation=twinkling"/>
 
 </div>
