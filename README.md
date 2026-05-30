@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<!-- Header banner — animated GIF (lilac/purple wave) -->
-<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/header.gif" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
+<!-- Header banner — animated tech GIF -->
+<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/header-tech.gif?v=2" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
 
 <!-- Profile avatar (circular PNG — GitHub ignores border-radius CSS) -->
 <img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/avatar.png" width="188" style="margin-top:-40px;" alt="Dayane Fernandes"/>
@@ -152,7 +152,7 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 
 <br/><br/>
 
-<!-- Footer — animated GIF matching header style -->
-<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer.gif" width="100%" alt="Do código à nuvem — com segurança e escala."/>
+<!-- Footer — animated tech GIF -->
+<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer-tech.gif?v=2" width="100%" alt="Do código à nuvem — com segurança e escala."/>
 
 </div>
