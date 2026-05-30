@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<!-- Header banner with role focus -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=BB86FC,C084FC&height=170&section=header&text=Dayane%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20DevOps%20%C2%B7%20DevSecOps%20%C2%B7%20Cloud&descSize=18&descAlignY=58&descAlign=50"/>
+<!-- Header banner — animated GIF (lilac/purple wave) -->
+<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/header.gif" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
 
 <!-- Profile avatar (circular PNG — GitHub ignores border-radius CSS) -->
 <img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/avatar.png" width="188" style="margin-top:-40px;" alt="Dayane Fernandes"/>
@@ -152,7 +152,7 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 
 <br/><br/>
 
-<!-- Footer — static PNG (capsule-render randomizes footer colors) -->
-<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer.png" width="100%" alt="Do código à nuvem — com segurança e escala."/>
+<!-- Footer — animated GIF matching header style -->
+<img src="https://raw.githubusercontent.com/DayaneF6/DayaneF6/main/assets/footer.gif" width="100%" alt="Do código à nuvem — com segurança e escala."/>
 
 </div>
