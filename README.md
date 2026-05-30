@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<!-- Header banner with role focus -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=BB86FC,FFB6C1&height=170&section=header&text=Dayane%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20DevOps%20%C2%B7%20DevSecOps%20%C2%B7%20Cloud&descSize=18&descAlignY=58&descAlign=50"/>
+<!-- Header banner — repo SVG for stable lilac/pink colors -->
+<img src="./assets/header.svg" width="100%" alt="Dayane Fernandes — Backend · DevOps · DevSecOps · Cloud"/>
 
 <!-- Profile avatar (public GitHub image) -->
 <img src="https://github.com/DayaneF6.png" width="180" style="border-radius:50%;border:3px solid #BB86FC;box-shadow:0 4px 24px rgba(187,134,252,0.4);margin-top:-40px;" alt="Dayane Fernandes"/>
@@ -152,7 +152,7 @@ Estou aberta a **oportunidades**, **projetos backend/cloud** e **conexões na á
 
 <br/><br/>
 
-<!-- Footer tagline -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=BB86FC,FFB6C1&height=90&section=footer&text=Do%20c%C3%B3digo%20%C3%A0%20nuvem%20%E2%80%94%20com%20seguran%C3%A7a%20e%20escala.&fontSize=15&fontColor=ffffff&animation=twinkling"/>
+<!-- Footer tagline — repo SVG for stable lilac/pink colors -->
+<img src="./assets/footer.svg" width="100%" alt="Do código à nuvem — com segurança e escala."/>
 
 </div>
